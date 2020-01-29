@@ -5,3 +5,7 @@ Explore Angular Development with Liferay.
 ## Notes
 
 `.npmbuildrc`: Configure LIFERAY_HOME
+
+## Using NgRoute w/o APP_BASE_HREF Errors
+
+see: https://liferay.dev/blogs/-/blogs/angular-2-portlets-in-dxp
